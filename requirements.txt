@@ -1,0 +1,7 @@
+python-dotenv
+google-genai
+langchain
+langchain_community
+dashscope
+OpenAI
+langchain_openai

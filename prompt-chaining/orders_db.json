@@ -1,0 +1,18 @@
+{
+  "98765": {
+    "status": "Delayed in transit",
+    "tracking_number": "1Z999AA10123456784",
+    "carrier": "UPS",
+    "estimated_delivery": "2026-07-24",
+    "shipping_method": "Expedited (2-day)",
+    "customer_name": "John Doe"
+  },
+  "12345": {
+    "status": "Delivered",
+    "tracking_number": "9400111899562781234567",
+    "carrier": "USPS",
+    "estimated_delivery": "2026-07-15",
+    "shipping_method": "Standard",
+    "customer_name": "Jane Smith"
+  }
+}
