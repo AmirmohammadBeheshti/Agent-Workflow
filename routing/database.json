@@ -1,0 +1,48 @@
+{
+  "invoices": {
+    "INV-1001": {
+      "customer_name": "Alice Smith",
+      "amount": 250.00,
+      "status": "Paid",
+      "due_date": "2026-06-15",
+      "items": ["Premium Subscription", "Extra Storage"]
+    },
+    "INV-1002": {
+      "customer_name": "Bob Jones",
+      "amount": 45.00,
+      "status": "Unpaid",
+      "due_date": "2026-08-01",
+      "items": ["Basic Plan Month 2"]
+    },
+    "INV-1003": {
+      "customer_name": "Charlie Brown",
+      "amount": 120.00,
+      "status": "Overdue",
+      "due_date": "2026-07-10",
+      "items": ["Consulting Session"]
+    }
+  },
+  "orders": {
+    "ORD-5501": {
+      "customer_name": "Alice Smith",
+      "item": "Wireless Headphones",
+      "purchase_date": "2026-07-15",
+      "delivery_status": "Delivered",
+      "delivered_date": "2026-07-18"
+    },
+    "ORD-5502": {
+      "customer_name": "Bob Jones",
+      "item": "Ergonomic Keyboard",
+      "purchase_date": "2026-05-10",
+      "delivery_status": "Delivered",
+      "delivered_date": "2026-05-14"
+    },
+    "ORD-5503": {
+      "customer_name": "Charlie Brown",
+      "item": "USB-C Hub",
+      "purchase_date": "2026-07-22",
+      "delivery_status": "In Transit",
+      "delivered_date": null
+    }
+  }
+}
